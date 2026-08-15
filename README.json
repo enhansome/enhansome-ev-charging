@@ -19,7 +19,7 @@
             "last_commit": "2026-08-09T19:16:24Z",
             "owner": "juherr",
             "repo": "awesome-ev-charging",
-            "stars": 158
+            "stars": 159
           }
         },
         {
@@ -38,7 +38,7 @@
                 "last_commit": "2026-08-09T19:16:24Z",
                 "owner": "juherr",
                 "repo": "awesome-ev-charging",
-                "stars": 158
+                "stars": 159
               }
             },
             {
@@ -52,7 +52,7 @@
                 "last_commit": "2026-08-09T19:16:24Z",
                 "owner": "juherr",
                 "repo": "awesome-ev-charging",
-                "stars": 158
+                "stars": 159
               }
             },
             {
@@ -66,7 +66,7 @@
                 "last_commit": "2026-08-09T19:16:24Z",
                 "owner": "juherr",
                 "repo": "awesome-ev-charging",
-                "stars": 158
+                "stars": 159
               }
             },
             {
@@ -80,7 +80,7 @@
                 "last_commit": "2026-08-09T19:16:24Z",
                 "owner": "juherr",
                 "repo": "awesome-ev-charging",
-                "stars": 158
+                "stars": 159
               }
             },
             {
@@ -94,7 +94,7 @@
                 "last_commit": "2026-08-09T19:16:24Z",
                 "owner": "juherr",
                 "repo": "awesome-ev-charging",
-                "stars": 158
+                "stars": 159
               }
             },
             {
@@ -108,7 +108,7 @@
                 "last_commit": "2026-08-09T19:16:24Z",
                 "owner": "juherr",
                 "repo": "awesome-ev-charging",
-                "stars": 158
+                "stars": 159
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-09T19:16:24Z",
                 "owner": "juherr",
                 "repo": "awesome-ev-charging",
-                "stars": 158
+                "stars": 159
               }
             },
             {
@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-09T19:16:24Z",
                 "owner": "juherr",
                 "repo": "awesome-ev-charging",
-                "stars": 158
+                "stars": 159
               }
             }
           ]
@@ -263,10 +263,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T21:07:48Z",
+            "last_commit": "2026-08-14T23:11:34Z",
             "owner": "citrineos",
             "repo": "citrineos-core",
-            "stars": 276
+            "stars": 277
           }
         },
         {
@@ -431,7 +431,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-27T14:30:23Z",
+            "last_commit": "2026-08-14T14:14:02Z",
             "owner": "eveys-mobility",
             "repo": "OCPP",
             "stars": 3
@@ -543,7 +543,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T13:57:52Z",
+            "last_commit": "2026-08-14T12:35:20Z",
             "owner": "amolsurjuse",
             "repo": "ocpp-service",
             "stars": 1
@@ -557,7 +557,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T21:57:27Z",
+            "last_commit": "2026-08-14T18:50:43Z",
             "owner": "juherr",
             "repo": "steve-ocpp-csms-image",
             "stars": 1
@@ -583,7 +583,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T00:09:40Z",
+            "last_commit": "2026-08-15T04:53:19Z",
             "owner": "SAP",
             "repo": "e-mobility-charging-stations-simulator",
             "stars": 222
@@ -1004,7 +1004,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T07:52:31Z",
+            "last_commit": "2026-08-14T08:48:20Z",
             "owner": "mikuso",
             "repo": "ocpp-rpc",
             "stars": 135
@@ -1066,7 +1066,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T06:25:47Z",
+            "last_commit": "2026-08-14T21:55:44Z",
             "owner": "monta-app",
             "repo": "library-ocpp",
             "stars": 6
@@ -1196,7 +1196,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T05:54:30Z",
+            "last_commit": "2026-08-14T19:33:59Z",
             "owner": "lbbrhzn",
             "repo": "ocpp",
             "stars": 388
@@ -1210,7 +1210,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T06:03:29Z",
+            "last_commit": "2026-08-14T19:34:14Z",
             "owner": "EVerest",
             "repo": "EVerest",
             "stars": 242
@@ -1797,7 +1797,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-25T14:37:44Z",
+            "last_commit": "2026-08-14T12:35:48Z",
             "owner": "EcoG-io",
             "repo": "iso15118",
             "stars": 242
@@ -1926,7 +1926,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T05:01:18Z",
+            "last_commit": "2026-08-15T00:34:03Z",
             "owner": "MTES-MCT",
             "repo": "qualicharge",
             "stars": 10
@@ -1946,10 +1946,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T20:38:07Z",
+            "last_commit": "2026-08-14T09:25:58Z",
             "owner": "dalathegreat",
             "repo": "Battery-Emulator",
-            "stars": 2872
+            "stars": 2875
           }
         },
         {
@@ -1963,7 +1963,7 @@
             "last_commit": "2026-05-14T18:40:13Z",
             "owner": "mnh-jansson",
             "repo": "open-battery-information",
-            "stars": 1652
+            "stars": 1656
           }
         },
         {
@@ -2008,7 +2008,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-08T08:11:32Z",
+            "last_commit": "2026-08-14T09:33:46Z",
             "owner": "lachand",
             "repo": "EV_charger",
             "stars": 16
@@ -2031,7 +2031,7 @@
             "last_commit": "2026-08-13T23:37:02Z",
             "owner": "OpenEMS",
             "repo": "openems",
-            "stars": 1515
+            "stars": 1518
           }
         },
         {
@@ -2042,7 +2042,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T22:51:49Z",
+            "last_commit": "2026-08-15T03:06:49Z",
             "owner": "SolarNetwork",
             "repo": "solarnetwork-central",
             "stars": 7
@@ -2125,7 +2125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:01:32.635Z",
+    "last_updated": "2026-08-15T07:15:31.362Z",
     "original_repository": "juherr/awesome-ev-charging",
     "original_repository_sha": "c41a2b29b873375d66fdf749f167ea01025a0ce7",
     "enhanced_repository": "enhansome/enhansome-ev-charging",
