@@ -253,7 +253,7 @@
                     "archived": false,
                     "id": 12617198,
                     "language": "Java",
-                    "last_commit": "2026-08-19T06:25:00Z",
+                    "last_commit": "2026-08-19T11:02:24Z",
                     "owner": "steve-community",
                     "repo": "steve",
                     "stars": 1104
@@ -313,7 +313,7 @@
                     "archived": false,
                     "id": 214462607,
                     "language": "C++",
-                    "last_commit": "2026-08-08T00:54:05Z",
+                    "last_commit": "2026-08-19T09:04:35Z",
                     "owner": "apostoldevel",
                     "repo": "ocpp-cs",
                     "stars": 76
@@ -448,7 +448,7 @@
                     "archived": false,
                     "id": 504798668,
                     "language": "Java",
-                    "last_commit": "2025-12-08T13:15:35Z",
+                    "last_commit": "2026-08-19T08:26:29Z",
                     "owner": "juherr",
                     "repo": "evolve",
                     "stars": 4
@@ -620,7 +620,7 @@
                     "archived": false,
                     "id": 493726338,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T00:30:00Z",
+                    "last_commit": "2026-08-19T12:03:39Z",
                     "owner": "SAP",
                     "repo": "e-mobility-charging-stations-simulator",
                     "stars": 222
@@ -1070,7 +1070,7 @@
                         "archived": false,
                         "id": 483046558,
                         "language": "JavaScript",
-                        "last_commit": "2026-08-14T08:48:20Z",
+                        "last_commit": "2026-08-19T09:41:16Z",
                         "owner": "mikuso",
                         "repo": "ocpp-rpc",
                         "stars": 135
@@ -1298,10 +1298,10 @@
                     "archived": false,
                     "id": 440147145,
                     "language": "C++",
-                    "last_commit": "2026-08-19T07:06:25Z",
+                    "last_commit": "2026-08-19T11:26:00Z",
                     "owner": "EVerest",
                     "repo": "EVerest",
-                    "stars": 246
+                    "stars": 247
                   }
                 },
                 {
@@ -1955,7 +1955,7 @@
                     "last_commit": "2026-05-22T14:47:23Z",
                     "owner": "uhi22",
                     "repo": "pyPLC",
-                    "stars": 231
+                    "stars": 232
                   }
                 },
                 {
@@ -2126,7 +2126,7 @@
                     "last_commit": "2026-08-06T14:25:13Z",
                     "owner": "remontsuri",
                     "repo": "EV-QA-Framework",
-                    "stars": 8
+                    "stars": 9
                   }
                 }
               ],
@@ -2182,7 +2182,7 @@
                     "archived": false,
                     "id": 71057302,
                     "language": "Java",
-                    "last_commit": "2026-08-18T13:26:13Z",
+                    "last_commit": "2026-08-19T12:09:16Z",
                     "owner": "OpenEMS",
                     "repo": "openems",
                     "stars": 1523
@@ -2285,8 +2285,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:24:41.262Z",
+    "last_updated": "2026-08-19T12:26:32.779Z",
     "original_repository": "juherr/awesome-ev-charging",
+    "original_repository_id": 564884602,
     "original_repository_sha": "327f5b52fe447f438f6f9f965f067cdb746b6a37",
     "enhanced_repository": "enhansome/enhansome-ev-charging",
     "enhanced_repository_description": null,
