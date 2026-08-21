@@ -253,7 +253,7 @@
                     "archived": false,
                     "id": 12617198,
                     "language": "Java",
-                    "last_commit": "2026-08-19T11:02:24Z",
+                    "last_commit": "2026-08-20T13:34:58Z",
                     "owner": "steve-community",
                     "repo": "steve",
                     "stars": 1104
@@ -283,7 +283,7 @@
                     "archived": false,
                     "id": 706394072,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T23:35:10Z",
+                    "last_commit": "2026-08-20T22:58:40Z",
                     "owner": "citrineos",
                     "repo": "citrineos-core",
                     "stars": 279
@@ -376,7 +376,7 @@
                     "last_commit": "2026-04-10T06:22:18Z",
                     "owner": "savekar-ev",
                     "repo": "OCPP-1.6-Charging-Point-Management-System",
-                    "stars": 14
+                    "stars": 15
                   }
                 },
                 {
@@ -620,7 +620,7 @@
                     "archived": false,
                     "id": 493726338,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T23:07:51Z",
+                    "last_commit": "2026-08-21T00:43:44Z",
                     "owner": "SAP",
                     "repo": "e-mobility-charging-stations-simulator",
                     "stars": 222
@@ -698,7 +698,7 @@
                     "last_commit": "2025-12-19T13:47:00Z",
                     "owner": "ozgurbayram",
                     "repo": "OCPPSimulator",
-                    "stars": 27
+                    "stars": 28
                   }
                 },
                 {
@@ -803,7 +803,7 @@
                     "last_commit": "2026-08-17T00:58:41Z",
                     "owner": "ZhongRuoyu",
                     "repo": "ocppsim",
-                    "stars": 4
+                    "stars": 5
                   }
                 },
                 {
@@ -969,7 +969,7 @@
                         "last_commit": "2025-11-03T19:39:24Z",
                         "owner": "ChargeLab",
                         "repo": "OpenOCPP",
-                        "stars": 82
+                        "stars": 83
                       }
                     }
                   ],
@@ -1204,7 +1204,7 @@
                         "archived": false,
                         "id": 1044842053,
                         "language": "Rust",
-                        "last_commit": "2026-08-20T07:19:13Z",
+                        "last_commit": "2026-08-20T13:04:39Z",
                         "owner": "evlinked",
                         "repo": "ocpp-rs",
                         "stars": 4
@@ -1286,7 +1286,7 @@
                     "last_commit": "2026-08-14T19:33:59Z",
                     "owner": "lbbrhzn",
                     "repo": "ocpp",
-                    "stars": 389
+                    "stars": 390
                   }
                 },
                 {
@@ -1298,7 +1298,7 @@
                     "archived": false,
                     "id": 440147145,
                     "language": "C++",
-                    "last_commit": "2026-08-20T06:58:22Z",
+                    "last_commit": "2026-08-21T07:05:21Z",
                     "owner": "EVerest",
                     "repo": "EVerest",
                     "stars": 248
@@ -1331,7 +1331,7 @@
                     "last_commit": "2026-08-17T12:47:18Z",
                     "owner": "joulo-nl",
                     "repo": "joulo-ocpp-proxy",
-                    "stars": 12
+                    "stars": 13
                   }
                 },
                 {
@@ -1403,7 +1403,7 @@
                     "archived": false,
                     "id": 1291261699,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-10T13:34:20Z",
+                    "last_commit": "2026-08-20T13:47:27Z",
                     "owner": "ocpp-debugkit",
                     "repo": "toolkit",
                     "stars": 5
@@ -1441,21 +1441,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "sepehr-safari/ocpp-handbook",
-                  "description": "An open-source course and handbook on EV charging software fundamentals, covering industry context, hardware, protocols (OCPP, OCPI, ISO 15118), and debugging techniques (OCPP 1.6, 2.0.1 · ⭐ 2).",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 1303965915,
-                    "language": "JavaScript",
-                    "last_commit": "2026-08-15T21:26:00Z",
-                    "owner": "sepehr-safari",
-                    "repo": "ocpp-handbook",
-                    "stars": 2
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "OpenChargingTechnology/Whitepapers",
                   "description": "A collection of open EV infrastructure ICT whitepapers covering cybersecurity, interoperability, OCPP, OCPI, OICP, ISO 15118, EV roaming, OpenADR, and related protocols (OCPP 1.6, 2.1 · ⭐ 2).",
                   "children": [],
@@ -1466,6 +1451,21 @@
                     "last_commit": "2026-08-20T05:42:19Z",
                     "owner": "OpenChargingTechnology",
                     "repo": "Whitepapers",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "sepehr-safari/ocpp-handbook",
+                  "description": "An open-source course and handbook on EV charging software fundamentals, covering industry context, hardware, protocols (OCPP, OCPI, ISO 15118), and debugging techniques (OCPP 1.6, 2.0.1 · ⭐ 2).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1303965915,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-15T21:26:00Z",
+                    "owner": "sepehr-safari",
+                    "repo": "ocpp-handbook",
                     "stars": 2
                   }
                 },
@@ -1937,7 +1937,7 @@
                     "archived": false,
                     "id": 434296107,
                     "language": "Python",
-                    "last_commit": "2026-08-14T12:35:48Z",
+                    "last_commit": "2026-08-21T07:12:36Z",
                     "owner": "EcoG-io",
                     "repo": "iso15118",
                     "stars": 242
@@ -2056,7 +2056,7 @@
                     "archived": false,
                     "id": 1026503099,
                     "language": null,
-                    "last_commit": "2026-08-18T00:43:11Z",
+                    "last_commit": "2026-08-21T01:42:13Z",
                     "owner": "appspace",
                     "repo": "kwwhat",
                     "stars": 14
@@ -2093,10 +2093,10 @@
                     "archived": false,
                     "id": 603860295,
                     "language": "C++",
-                    "last_commit": "2026-08-19T21:07:16Z",
+                    "last_commit": "2026-08-20T20:16:30Z",
                     "owner": "dalathegreat",
                     "repo": "Battery-Emulator",
-                    "stars": 2886
+                    "stars": 2889
                   }
                 },
                 {
@@ -2111,7 +2111,7 @@
                     "last_commit": "2026-08-19T18:30:14Z",
                     "owner": "mnh-jansson",
                     "repo": "open-battery-information",
-                    "stars": 1666
+                    "stars": 1670
                   }
                 },
                 {
@@ -2145,7 +2145,7 @@
                     "archived": false,
                     "id": 202533650,
                     "language": "C",
-                    "last_commit": "2026-08-18T23:06:02Z",
+                    "last_commit": "2026-08-20T21:49:23Z",
                     "owner": "OpenEVSE",
                     "repo": "openevse_esp32_firmware",
                     "stars": 228
@@ -2182,7 +2182,7 @@
                     "archived": false,
                     "id": 71057302,
                     "language": "Java",
-                    "last_commit": "2026-08-20T07:19:15Z",
+                    "last_commit": "2026-08-20T23:34:50Z",
                     "owner": "OpenEMS",
                     "repo": "openems",
                     "stars": 1523
@@ -2197,7 +2197,7 @@
                     "archived": false,
                     "id": 6083792,
                     "language": "Java",
-                    "last_commit": "2026-08-19T01:05:02Z",
+                    "last_commit": "2026-08-21T00:06:46Z",
                     "owner": "SolarNetwork",
                     "repo": "solarnetwork-central",
                     "stars": 7
@@ -2285,7 +2285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:26:42.887Z",
+    "last_updated": "2026-08-21T07:28:03.440Z",
     "original_repository": "juherr/awesome-ev-charging",
     "original_repository_id": 564884602,
     "original_repository_sha": "327f5b52fe447f438f6f9f965f067cdb746b6a37",
