@@ -2515,7 +2515,7 @@
                     "archived": false,
                     "id": 434296107,
                     "language": "Python",
-                    "last_commit": "2026-08-24T11:38:52Z",
+                    "last_commit": "2026-08-25T07:13:37Z",
                     "owner": "EcoG-io",
                     "repo": "iso15118",
                     "stars": 242
@@ -2818,10 +2818,10 @@
                     "archived": false,
                     "id": 226368338,
                     "language": "Go",
-                    "last_commit": "2026-08-24T19:27:59Z",
+                    "last_commit": "2026-08-25T06:52:02Z",
                     "owner": "evcc-io",
                     "repo": "evcc",
-                    "stars": 7127
+                    "stars": 7128
                   }
                 }
               ],
@@ -3009,7 +3009,7 @@
                     "archived": false,
                     "id": 71057302,
                     "language": "Java",
-                    "last_commit": "2026-08-24T19:02:31Z",
+                    "last_commit": "2026-08-25T06:53:51Z",
                     "owner": "OpenEMS",
                     "repo": "openems",
                     "stars": 1530
@@ -3141,10 +3141,10 @@
                     "archived": false,
                     "id": 59771425,
                     "language": "C",
-                    "last_commit": "2026-08-25T00:12:58Z",
+                    "last_commit": "2026-08-25T07:05:05Z",
                     "owner": "zephyrproject-rtos",
                     "repo": "zephyr",
-                    "stars": 16305
+                    "stars": 16307
                   }
                 }
               ],
@@ -3251,7 +3251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:31:34.075Z",
+    "last_updated": "2026-08-25T07:29:24.888Z",
     "original_repository": "juherr/awesome-ev-charging",
     "original_repository_id": 564884602,
     "original_repository_sha": "327f5b52fe447f438f6f9f965f067cdb746b6a37",
