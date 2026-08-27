@@ -545,7 +545,7 @@
                     "archived": false,
                     "id": 12617198,
                     "language": "Java",
-                    "last_commit": "2026-08-27T09:22:51Z",
+                    "last_commit": "2026-08-27T16:46:47Z",
                     "owner": "steve-community",
                     "repo": "steve",
                     "stars": 1109
@@ -563,7 +563,7 @@
                     "last_commit": "2026-06-09T18:14:27Z",
                     "owner": "dallmann-consulting",
                     "repo": "OCPP.Core",
-                    "stars": 305
+                    "stars": 306
                   }
                 },
                 {
@@ -575,10 +575,10 @@
                     "archived": false,
                     "id": 706394072,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-26T21:03:31Z",
+                    "last_commit": "2026-08-27T17:51:20Z",
                     "owner": "citrineos",
                     "repo": "citrineos-core",
-                    "stars": 282
+                    "stars": 283
                   }
                 },
                 {
@@ -912,7 +912,7 @@
                     "archived": false,
                     "id": 493726338,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T00:10:06Z",
+                    "last_commit": "2026-08-27T16:55:17Z",
                     "owner": "SAP",
                     "repo": "e-mobility-charging-stations-simulator",
                     "stars": 222
@@ -1409,7 +1409,7 @@
                         "last_commit": "2026-08-21T13:23:22Z",
                         "owner": "mikuso",
                         "repo": "ocpp-rpc",
-                        "stars": 136
+                        "stars": 135
                       }
                     },
                     {
@@ -1656,7 +1656,7 @@
                     "archived": false,
                     "id": 440147145,
                     "language": "C++",
-                    "last_commit": "2026-08-27T11:17:24Z",
+                    "last_commit": "2026-08-27T17:19:01Z",
                     "owner": "EVerest",
                     "repo": "EVerest",
                     "stars": 255
@@ -2057,7 +2057,7 @@
                     "archived": false,
                     "id": 907817582,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T17:23:10Z",
+                    "last_commit": "2026-08-27T17:07:58Z",
                     "owner": "olisystems",
                     "repo": "ocn-node-v2",
                     "stars": 1
@@ -2818,10 +2818,10 @@
                     "archived": false,
                     "id": 226368338,
                     "language": "Go",
-                    "last_commit": "2026-08-27T11:08:07Z",
+                    "last_commit": "2026-08-27T16:49:07Z",
                     "owner": "evcc-io",
                     "repo": "evcc",
-                    "stars": 7146
+                    "stars": 7147
                   }
                 }
               ],
@@ -2840,7 +2840,7 @@
                     "archived": false,
                     "id": 202533650,
                     "language": "C",
-                    "last_commit": "2026-08-26T17:31:39Z",
+                    "last_commit": "2026-08-27T17:22:00Z",
                     "owner": "OpenEVSE",
                     "repo": "openevse_esp32_firmware",
                     "stars": 228
@@ -3141,10 +3141,10 @@
                     "archived": false,
                     "id": 59771425,
                     "language": "C",
-                    "last_commit": "2026-08-27T11:16:04Z",
+                    "last_commit": "2026-08-27T17:06:29Z",
                     "owner": "zephyrproject-rtos",
                     "repo": "zephyr",
-                    "stars": 16322
+                    "stars": 16324
                   }
                 }
               ],
@@ -3251,7 +3251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:35.942Z",
+    "last_updated": "2026-08-27T17:53:53.949Z",
     "original_repository_info": {
       "archived": false,
       "id": 564884602,
