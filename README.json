@@ -328,7 +328,7 @@
                     "open_issues": 145,
                     "owner": "ocpi",
                     "repo": "ocpi",
-                    "stars": 591,
+                    "stars": 592,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -349,7 +349,7 @@
                     "open_issues": 145,
                     "owner": "ocpi",
                     "repo": "ocpi",
-                    "stars": 591,
+                    "stars": 592,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -370,7 +370,7 @@
                     "open_issues": 145,
                     "owner": "ocpi",
                     "repo": "ocpi",
-                    "stars": 591,
+                    "stars": 592,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -391,7 +391,7 @@
                     "open_issues": 145,
                     "owner": "ocpi",
                     "repo": "ocpi",
-                    "stars": 591,
+                    "stars": 592,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -412,7 +412,7 @@
                     "open_issues": 145,
                     "owner": "ocpi",
                     "repo": "ocpi",
-                    "stars": 591,
+                    "stars": 592,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -433,7 +433,7 @@
                     "open_issues": 145,
                     "owner": "ocpi",
                     "repo": "ocpi",
-                    "stars": 591,
+                    "stars": 592,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -454,7 +454,7 @@
                     "open_issues": 145,
                     "owner": "ocpi",
                     "repo": "ocpi",
-                    "stars": 591,
+                    "stars": 592,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -471,7 +471,7 @@
                 "open_issues": 145,
                 "owner": "ocpi",
                 "repo": "ocpi",
-                "stars": 591,
+                "stars": 592,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:00:17.060Z"
@@ -499,7 +499,7 @@
                         "open_issues": 145,
                         "owner": "ocpi",
                         "repo": "ocpi",
-                        "stars": 591,
+                        "stars": 592,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:00:17.060Z"
@@ -516,7 +516,7 @@
                     "open_issues": 145,
                     "owner": "ocpi",
                     "repo": "ocpi",
-                    "stars": 591,
+                    "stars": 592,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -542,7 +542,7 @@
                         "open_issues": 145,
                         "owner": "ocpi",
                         "repo": "ocpi",
-                        "stars": 591,
+                        "stars": 592,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:00:17.060Z"
@@ -563,7 +563,7 @@
                         "open_issues": 145,
                         "owner": "ocpi",
                         "repo": "ocpi",
-                        "stars": 591,
+                        "stars": 592,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:00:17.060Z"
@@ -882,11 +882,11 @@
                     "id": 12617198,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-08T08:07:11Z",
+                    "last_commit": "2026-09-09T21:55:31Z",
                     "open_issues": 91,
                     "owner": "steve-community",
                     "repo": "steve",
-                    "stars": 1114,
+                    "stars": 1115,
                     "topics": [
                       "charging-station-management-system",
                       "chargingstation",
@@ -951,11 +951,11 @@
                     "id": 706394072,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-08T21:50:34Z",
-                    "open_issues": 34,
+                    "last_commit": "2026-09-10T02:55:56Z",
+                    "open_issues": 31,
                     "owner": "citrineos",
                     "repo": "citrineos-core",
-                    "stars": 288,
+                    "stars": 289,
                     "topics": [
                       "charging-station-management-system",
                       "emobility",
@@ -979,7 +979,7 @@
                     "language": null,
                     "license": "Apache-2.0",
                     "last_commit": "2026-02-10T19:32:55Z",
-                    "open_issues": 8,
+                    "open_issues": 7,
                     "owner": "citrineos",
                     "repo": "citrineos",
                     "stars": 149,
@@ -1461,7 +1461,7 @@
                     "id": 1314762463,
                     "language": "Shell",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-03T11:47:33Z",
+                    "last_commit": "2026-09-10T11:48:57Z",
                     "open_issues": 3,
                     "owner": "juherr",
                     "repo": "steve-ocpp-csms-image",
@@ -1496,8 +1496,8 @@
                     "id": 493726338,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T11:23:50Z",
-                    "open_issues": 18,
+                    "last_commit": "2026-09-10T11:32:51Z",
+                    "open_issues": 19,
                     "owner": "SAP",
                     "repo": "e-mobility-charging-stations-simulator",
                     "stars": 225,
@@ -1524,7 +1524,7 @@
                     "id": 789343716,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-08T20:10:03Z",
+                    "last_commit": "2026-09-09T22:05:13Z",
                     "open_issues": 9,
                     "owner": "monta-app",
                     "repo": "ocpp-emulator",
@@ -1629,8 +1629,8 @@
                     "id": 1055424897,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2025-12-19T13:47:00Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-09-10T09:44:54Z",
+                    "open_issues": 1,
                     "owner": "ozgurbayram",
                     "repo": "OCPPSimulator",
                     "stars": 29,
@@ -2206,7 +2206,7 @@
                         "open_issues": 0,
                         "owner": "shiv3",
                         "repo": "gocpp",
-                        "stars": 4,
+                        "stars": 5,
                         "topics": [
                           "charge-point",
                           "csms",
@@ -2386,7 +2386,7 @@
                         "id": 501708979,
                         "language": "Kotlin",
                         "license": "MIT",
-                        "last_commit": "2026-09-09T10:08:10Z",
+                        "last_commit": "2026-09-09T14:19:31Z",
                         "open_issues": 10,
                         "owner": "IZIVIA",
                         "repo": "ocpp-toolkit",
@@ -2471,7 +2471,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-07-19T12:53:07Z",
-                        "open_issues": 20,
+                        "open_issues": 21,
                         "owner": "mobilityhouse",
                         "repo": "ocpp",
                         "stars": 1041,
@@ -2560,7 +2560,7 @@
                         "language": "Rust",
                         "license": "MIT",
                         "last_commit": "2026-09-08T05:15:19Z",
-                        "open_issues": 9,
+                        "open_issues": 10,
                         "owner": "evlinked",
                         "repo": "ocpp-rs",
                         "stars": 4,
@@ -2618,7 +2618,7 @@
                         "open_issues": 0,
                         "owner": "jacoscaz",
                         "repo": "typed-ocpp",
-                        "stars": 9,
+                        "stars": 10,
                         "topics": [
                           "ocpp",
                           "ocpp16",
@@ -2680,11 +2680,11 @@
                     "id": 336054515,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T04:06:48Z",
-                    "open_issues": 29,
+                    "last_commit": "2026-09-09T19:09:59Z",
+                    "open_issues": 33,
                     "owner": "lbbrhzn",
                     "repo": "ocpp",
-                    "stars": 394,
+                    "stars": 395,
                     "topics": [
                       "hacs",
                       "home-assistant",
@@ -2707,8 +2707,8 @@
                     "id": 440147145,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T11:10:18Z",
-                    "open_issues": 313,
+                    "last_commit": "2026-09-10T11:40:04Z",
+                    "open_issues": 312,
                     "owner": "EVerest",
                     "repo": "EVerest",
                     "stars": 261,
@@ -3069,10 +3069,10 @@
                     "language": "C",
                     "license": "MIT",
                     "last_commit": "2026-08-30T21:51:23Z",
-                    "open_issues": 12,
+                    "open_issues": 8,
                     "owner": "SmartEVSE",
                     "repo": "SmartEVSE-3",
-                    "stars": 229,
+                    "stars": 230,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -3513,7 +3513,7 @@
                         "id": 1151740319,
                         "language": "Java",
                         "license": null,
-                        "last_commit": "2026-08-18T11:29:38Z",
+                        "last_commit": "2026-09-09T21:02:16Z",
                         "open_issues": 0,
                         "owner": "steve-community",
                         "repo": "ocpi-models",
@@ -3610,7 +3610,7 @@
                         "id": 431986771,
                         "language": "PHP",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-09-08T18:46:32Z",
+                        "last_commit": "2026-09-09T23:13:59Z",
                         "open_issues": 22,
                         "owner": "juherr",
                         "repo": "mobilityid",
@@ -4248,7 +4248,7 @@
                 "open_issues": 3,
                 "owner": "open-ev-data",
                 "repo": "open-ev-data-dataset",
-                "stars": 29,
+                "stars": 30,
                 "topics": [
                   "csv",
                   "docker",
@@ -4353,8 +4353,8 @@
                     "id": 776116413,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T08:34:10Z",
-                    "open_issues": 40,
+                    "last_commit": "2026-09-10T07:29:48Z",
+                    "open_issues": 35,
                     "owner": "MTES-MCT",
                     "repo": "qualicharge",
                     "stars": 10,
@@ -4418,11 +4418,11 @@
                     "id": 603860295,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-08T17:03:57Z",
-                    "open_issues": 161,
+                    "last_commit": "2026-09-09T19:06:53Z",
+                    "open_issues": 162,
                     "owner": "dalathegreat",
                     "repo": "Battery-Emulator",
-                    "stars": 2908,
+                    "stars": 2912,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -4443,7 +4443,7 @@
                     "open_issues": 90,
                     "owner": "mnh-jansson",
                     "repo": "open-battery-information",
-                    "stars": 1757,
+                    "stars": 1761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -4504,11 +4504,11 @@
                     "id": 226368338,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T11:23:06Z",
+                    "last_commit": "2026-09-10T11:34:41Z",
                     "open_issues": 136,
                     "owner": "evcc-io",
                     "repo": "evcc",
-                    "stars": 7209,
+                    "stars": 7215,
                     "topics": [
                       "battery",
                       "charger",
@@ -4547,8 +4547,8 @@
                     "id": 202533650,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-09T09:16:41Z",
-                    "open_issues": 187,
+                    "last_commit": "2026-09-09T22:52:57Z",
+                    "open_issues": 188,
                     "owner": "OpenEVSE",
                     "repo": "openevse_esp32_firmware",
                     "stars": 229,
@@ -4608,7 +4608,7 @@
                     "open_issues": 50,
                     "owner": "openchargemap",
                     "repo": "ocm-system",
-                    "stars": 146,
+                    "stars": 147,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -4632,7 +4632,7 @@
                     "id": 214859324,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-07T12:06:28Z",
+                    "last_commit": "2026-09-10T04:55:10Z",
                     "open_issues": 3,
                     "owner": "chargeprice",
                     "repo": "chargeprice-api-docs",
@@ -4805,11 +4805,11 @@
                     "id": 71057302,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-08T09:37:31Z",
-                    "open_issues": 55,
+                    "last_commit": "2026-09-10T02:54:44Z",
+                    "open_issues": 62,
                     "owner": "OpenEMS",
                     "repo": "openems",
-                    "stars": 1552,
+                    "stars": 1553,
                     "topics": [
                       "climatechange",
                       "electric-vehicle-charging-station",
@@ -4949,8 +4949,8 @@
                     "id": 1181844101,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-09T04:48:48Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-09-10T09:09:37Z",
+                    "open_issues": 2,
                     "owner": "GeiserX",
                     "repo": "Pumperly",
                     "stars": 34,
@@ -5030,11 +5030,11 @@
                     "id": 59771425,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T11:49:25Z",
-                    "open_issues": 3827,
+                    "last_commit": "2026-09-10T11:08:06Z",
+                    "open_issues": 3809,
                     "owner": "zephyrproject-rtos",
                     "repo": "zephyr",
-                    "stars": 16454,
+                    "stars": 16468,
                     "topics": [
                       "bluetooth",
                       "bluetooth-le",
@@ -5134,7 +5134,7 @@
                     "id": 184752751,
                     "language": "Elixir",
                     "license": null,
-                    "last_commit": "2026-09-09T10:05:27Z",
+                    "last_commit": "2026-09-10T08:04:40Z",
                     "open_issues": 23,
                     "owner": "etalab",
                     "repo": "schema-irve",
@@ -5200,7 +5200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:50:41.158Z",
+    "last_updated": "2026-09-10T11:49:07.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for Electric Vehicles",
