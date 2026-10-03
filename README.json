@@ -7,315 +7,13 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Configuration Keys (1.6)",
-              "description": "Reference table of OCPP 1.6 configuration keys.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome list of tools for Electric Vehicles",
-                "homepage": null,
-                "id": 564884602,
-                "language": "Python",
-                "license": "CC0-1.0",
-                "last_commit": "2026-10-01T16:49:15Z",
-                "open_issues": 1,
-                "owner": "juherr",
-                "repo": "awesome-ev-charging",
-                "stars": 173,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "e-mobility",
-                  "electric-vehicles",
-                  "emobility",
-                  "ev-charging",
-                  "evse",
-                  "ocpi",
-                  "ocpp",
-                  "v2g"
-                ]
-              },
-              "first_seen": "2026-08-28T19:00:17.060Z"
-            },
-            {
-              "node_type": "group",
-              "title": "Specifications",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "juherr/awesome-ev-charging",
-                  "description": "(2025-01)",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Awesome list of tools for Electric Vehicles",
-                    "homepage": null,
-                    "id": 564884602,
-                    "language": "Python",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-10-01T16:49:15Z",
-                    "open_issues": 1,
-                    "owner": "juherr",
-                    "repo": "awesome-ev-charging",
-                    "stars": 173,
-                    "topics": [
-                      "awesome",
-                      "awesome-list",
-                      "e-mobility",
-                      "electric-vehicles",
-                      "emobility",
-                      "ev-charging",
-                      "evse",
-                      "ocpi",
-                      "ocpp",
-                      "v2g"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:00:17.060Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "juherr/awesome-ev-charging",
-                  "description": "(2020-04)",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Awesome list of tools for Electric Vehicles",
-                    "homepage": null,
-                    "id": 564884602,
-                    "language": "Python",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-10-01T16:49:15Z",
-                    "open_issues": 1,
-                    "owner": "juherr",
-                    "repo": "awesome-ev-charging",
-                    "stars": 173,
-                    "topics": [
-                      "awesome",
-                      "awesome-list",
-                      "e-mobility",
-                      "electric-vehicles",
-                      "emobility",
-                      "ev-charging",
-                      "evse",
-                      "ocpi",
-                      "ocpp",
-                      "v2g"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:00:17.060Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "2.0 (deprecated)",
-                  "description": "(2018)",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Awesome list of tools for Electric Vehicles",
-                    "homepage": null,
-                    "id": 564884602,
-                    "language": "Python",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-10-01T16:49:15Z",
-                    "open_issues": 1,
-                    "owner": "juherr",
-                    "repo": "awesome-ev-charging",
-                    "stars": 173,
-                    "topics": [
-                      "awesome",
-                      "awesome-list",
-                      "e-mobility",
-                      "electric-vehicles",
-                      "emobility",
-                      "ev-charging",
-                      "evse",
-                      "ocpi",
-                      "ocpp",
-                      "v2g"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:00:17.060Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "juherr/awesome-ev-charging",
-                  "description": "(2015)",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Awesome list of tools for Electric Vehicles",
-                    "homepage": null,
-                    "id": 564884602,
-                    "language": "Python",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-10-01T16:49:15Z",
-                    "open_issues": 1,
-                    "owner": "juherr",
-                    "repo": "awesome-ev-charging",
-                    "stars": 173,
-                    "topics": [
-                      "awesome",
-                      "awesome-list",
-                      "e-mobility",
-                      "electric-vehicles",
-                      "emobility",
-                      "ev-charging",
-                      "evse",
-                      "ocpi",
-                      "ocpp",
-                      "v2g"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:00:17.060Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "1.6 - Security Whitepaper Ed3",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Awesome list of tools for Electric Vehicles",
-                    "homepage": null,
-                    "id": 564884602,
-                    "language": "Python",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-10-01T16:49:15Z",
-                    "open_issues": 1,
-                    "owner": "juherr",
-                    "repo": "awesome-ev-charging",
-                    "stars": 173,
-                    "topics": [
-                      "awesome",
-                      "awesome-list",
-                      "e-mobility",
-                      "electric-vehicles",
-                      "emobility",
-                      "ev-charging",
-                      "evse",
-                      "ocpi",
-                      "ocpp",
-                      "v2g"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:00:17.060Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "1.x - Multiple Connectors per EVSE",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Awesome list of tools for Electric Vehicles",
-                    "homepage": null,
-                    "id": 564884602,
-                    "language": "Python",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-10-01T16:49:15Z",
-                    "open_issues": 1,
-                    "owner": "juherr",
-                    "repo": "awesome-ev-charging",
-                    "stars": 173,
-                    "topics": [
-                      "awesome",
-                      "awesome-list",
-                      "e-mobility",
-                      "electric-vehicles",
-                      "emobility",
-                      "ev-charging",
-                      "evse",
-                      "ocpi",
-                      "ocpp",
-                      "v2g"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:00:17.060Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "1.5 (deprecated)",
-                  "description": "(2012)",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Awesome list of tools for Electric Vehicles",
-                    "homepage": null,
-                    "id": 564884602,
-                    "language": "Python",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-10-01T16:49:15Z",
-                    "open_issues": 1,
-                    "owner": "juherr",
-                    "repo": "awesome-ev-charging",
-                    "stars": 173,
-                    "topics": [
-                      "awesome",
-                      "awesome-list",
-                      "e-mobility",
-                      "electric-vehicles",
-                      "emobility",
-                      "ev-charging",
-                      "evse",
-                      "ocpi",
-                      "ocpp",
-                      "v2g"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:00:17.060Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "1.2 (deprecated)",
-                  "description": "(2010)",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Awesome list of tools for Electric Vehicles",
-                    "homepage": null,
-                    "id": 564884602,
-                    "language": "Python",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-10-01T16:49:15Z",
-                    "open_issues": 1,
-                    "owner": "juherr",
-                    "repo": "awesome-ev-charging",
-                    "stars": 173,
-                    "topics": [
-                      "awesome",
-                      "awesome-list",
-                      "e-mobility",
-                      "electric-vehicles",
-                      "emobility",
-                      "ev-charging",
-                      "evse",
-                      "ocpi",
-                      "ocpp",
-                      "v2g"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:00:17.060Z"
-                }
-              ]
-            }
-          ],
-          "description": "The Open Charge Point Protocol (OCPP) is a communication protocol between electric vehicle charging stations and a central management system.",
-          "node_type": "group",
-          "title": "OCPP (Open Charge Point Protocol)"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "Specifications on GitHub",
-              "description": null,
+              "description": "ocpi/ocpi",
               "children": [
                 {
                   "node_type": "item",
                   "title": "2.3.0-d2",
-                  "description": "(2026-06)",
+                  "description": "ocpi/ocpi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -336,7 +34,7 @@
                 {
                   "node_type": "item",
                   "title": "ocpi/ocpi",
-                  "description": "(2021-10)",
+                  "description": "ocpi/ocpi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -399,7 +97,7 @@
                 {
                   "node_type": "item",
                   "title": "2.1.1-d2",
-                  "description": "(2019-06)",
+                  "description": "ocpi/ocpi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -441,7 +139,7 @@
                 {
                   "node_type": "item",
                   "title": "ocpi/ocpi",
-                  "description": "(2016-02)",
+                  "description": "ocpi/ocpi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -481,7 +179,7 @@
                 {
                   "node_type": "item",
                   "title": "Booking (2.3.0) — exact version labels are still being settled; the OCPI editors deferred on this in ocpi/ocpi#572",
-                  "description": null,
+                  "description": "ocpi/ocpi",
                   "children": [
                     {
                       "node_type": "item",
@@ -585,12 +283,12 @@
             {
               "node_type": "item",
               "title": "Specifications on GitHub",
-              "description": null,
+              "description": "hubject/oicp",
               "children": [
                 {
                   "node_type": "item",
                   "title": "hubject/oicp",
-                  "description": "(2020-10)",
+                  "description": "hubject/oicp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -671,194 +369,6 @@
           "description": "The Open InterCharge Protocol (OICP) is another protocol for roaming, developed by Hubject.",
           "node_type": "group",
           "title": "OICP (Open InterCharge Protocol)"
-        },
-        {
-          "children": [
-            {
-              "node_type": "group",
-              "title": "Specifications",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "group",
-                  "title": "eMi³ standard version V1.1 electric vehicle ICT interface specifications (2019-10)",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "Part 1 v1.1",
-                      "description": null,
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Awesome list of tools for Electric Vehicles",
-                        "homepage": null,
-                        "id": 564884602,
-                        "language": "Python",
-                        "license": "CC0-1.0",
-                        "last_commit": "2026-10-01T16:49:15Z",
-                        "open_issues": 1,
-                        "owner": "juherr",
-                        "repo": "awesome-ev-charging",
-                        "stars": 173,
-                        "topics": [
-                          "awesome",
-                          "awesome-list",
-                          "e-mobility",
-                          "electric-vehicles",
-                          "emobility",
-                          "ev-charging",
-                          "evse",
-                          "ocpi",
-                          "ocpp",
-                          "v2g"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T19:00:17.060Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Terms and definitions v1.4",
-                      "description": null,
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Awesome list of tools for Electric Vehicles",
-                        "homepage": null,
-                        "id": 564884602,
-                        "language": "Python",
-                        "license": "CC0-1.0",
-                        "last_commit": "2026-10-01T16:49:15Z",
-                        "open_issues": 1,
-                        "owner": "juherr",
-                        "repo": "awesome-ev-charging",
-                        "stars": 173,
-                        "topics": [
-                          "awesome",
-                          "awesome-list",
-                          "e-mobility",
-                          "electric-vehicles",
-                          "emobility",
-                          "ev-charging",
-                          "evse",
-                          "ocpi",
-                          "ocpp",
-                          "v2g"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T19:00:17.060Z"
-                    }
-                  ]
-                },
-                {
-                  "node_type": "group",
-                  "title": "eMi³ standard version V1.0 electric vehicle ICT interface specifications (2019-10)",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "Part 1 v1.0",
-                      "description": null,
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Awesome list of tools for Electric Vehicles",
-                        "homepage": null,
-                        "id": 564884602,
-                        "language": "Python",
-                        "license": "CC0-1.0",
-                        "last_commit": "2026-10-01T16:49:15Z",
-                        "open_issues": 1,
-                        "owner": "juherr",
-                        "repo": "awesome-ev-charging",
-                        "stars": 173,
-                        "topics": [
-                          "awesome",
-                          "awesome-list",
-                          "e-mobility",
-                          "electric-vehicles",
-                          "emobility",
-                          "ev-charging",
-                          "evse",
-                          "ocpi",
-                          "ocpp",
-                          "v2g"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T19:00:17.060Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Part 2 v1.0",
-                      "description": null,
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Awesome list of tools for Electric Vehicles",
-                        "homepage": null,
-                        "id": 564884602,
-                        "language": "Python",
-                        "license": "CC0-1.0",
-                        "last_commit": "2026-10-01T16:49:15Z",
-                        "open_issues": 1,
-                        "owner": "juherr",
-                        "repo": "awesome-ev-charging",
-                        "stars": 173,
-                        "topics": [
-                          "awesome",
-                          "awesome-list",
-                          "e-mobility",
-                          "electric-vehicles",
-                          "emobility",
-                          "ev-charging",
-                          "evse",
-                          "ocpi",
-                          "ocpp",
-                          "v2g"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T19:00:17.060Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Terms and definitions v1.0",
-                      "description": null,
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Awesome list of tools for Electric Vehicles",
-                        "homepage": null,
-                        "id": 564884602,
-                        "language": "Python",
-                        "license": "CC0-1.0",
-                        "last_commit": "2026-10-01T16:49:15Z",
-                        "open_issues": 1,
-                        "owner": "juherr",
-                        "repo": "awesome-ev-charging",
-                        "stars": 173,
-                        "topics": [
-                          "awesome",
-                          "awesome-list",
-                          "e-mobility",
-                          "electric-vehicles",
-                          "emobility",
-                          "ev-charging",
-                          "evse",
-                          "ocpi",
-                          "ocpp",
-                          "v2g"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T19:00:17.060Z"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "description": "eMI³ (eMobility ICT Interoperability) was a European initiative for e-mobility interoperability.",
-          "node_type": "group",
-          "title": "eMI³ (eMobility ICT Interoperability)"
         }
       ],
       "title": "Specifications"
@@ -886,7 +396,7 @@
                     "open_issues": 90,
                     "owner": "steve-community",
                     "repo": "steve",
-                    "stars": 1130,
+                    "stars": 1131,
                     "topics": [
                       "charging-station-management-system",
                       "chargingstation",
@@ -951,8 +461,8 @@
                     "id": 706394072,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T05:10:18Z",
-                    "open_issues": 25,
+                    "last_commit": "2026-10-02T19:56:57Z",
+                    "open_issues": 19,
                     "owner": "citrineos",
                     "repo": "citrineos-core",
                     "stars": 296,
@@ -979,7 +489,7 @@
                     "language": null,
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-21T20:18:03Z",
-                    "open_issues": 6,
+                    "open_issues": 8,
                     "owner": "citrineos",
                     "repo": "citrineos",
                     "stars": 153,
@@ -1036,11 +546,11 @@
                     "id": 1210008789,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T06:12:54Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-03T02:58:43Z",
+                    "open_issues": 1,
                     "owner": "EVtivity",
                     "repo": "evtivity-csms",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": [
                       "charging-station-management-system",
                       "csms",
@@ -1119,8 +629,8 @@
                     "id": 1208673229,
                     "language": "Go",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T09:39:50Z",
-                    "open_issues": 87,
+                    "last_commit": "2026-10-02T13:28:08Z",
+                    "open_issues": 91,
                     "owner": "srcfl",
                     "repo": "ftw",
                     "stars": 19,
@@ -1194,7 +704,7 @@
                     "id": 882494039,
                     "language": "C#",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-02T08:02:41Z",
+                    "last_commit": "2026-10-02T14:25:46Z",
                     "open_issues": 0,
                     "owner": "OpenChargingCloud",
                     "repo": "CSMSCLI",
@@ -1375,7 +885,7 @@
                     "id": 331888466,
                     "language": "Dockerfile",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T10:45:00Z",
+                    "last_commit": "2026-10-02T16:25:05Z",
                     "open_issues": 1,
                     "owner": "erik73",
                     "repo": "app-steve",
@@ -1543,8 +1053,8 @@
                     "id": 493726338,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T10:37:35Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-10-02T23:11:33Z",
+                    "open_issues": 19,
                     "owner": "SAP",
                     "repo": "e-mobility-charging-stations-simulator",
                     "stars": 227,
@@ -1603,7 +1113,7 @@
                     "open_issues": 23,
                     "owner": "solidstudiosh",
                     "repo": "ocpp-virtual-charge-point",
-                    "stars": 120,
+                    "stars": 119,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -1620,8 +1130,8 @@
                     "id": 825213329,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T16:30:58Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-10-02T20:27:01Z",
+                    "open_issues": 51,
                     "owner": "shiv3",
                     "repo": "ocpp-cp-simulator",
                     "stars": 43,
@@ -1680,7 +1190,7 @@
                     "open_issues": 1,
                     "owner": "ozgurbayram",
                     "repo": "OCPPSimulator",
-                    "stars": 31,
+                    "stars": 32,
                     "topics": [
                       "evcharging",
                       "ocpp",
@@ -2129,7 +1639,7 @@
                         "language": "C++",
                         "license": "MIT",
                         "last_commit": "2025-12-04T00:26:58Z",
-                        "open_issues": 131,
+                        "open_issues": 132,
                         "owner": "matth-x",
                         "repo": "MicroOcpp",
                         "stars": 543,
@@ -2188,7 +1698,7 @@
                         "id": 997569461,
                         "language": "C++",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-29T02:45:26Z",
+                        "last_commit": "2026-10-02T23:56:24Z",
                         "open_issues": 1,
                         "owner": "ChargeLab",
                         "repo": "OpenOCPP",
@@ -2871,8 +2381,8 @@
                     "id": 336054515,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T23:58:09Z",
-                    "open_issues": 41,
+                    "last_commit": "2026-10-02T15:52:53Z",
+                    "open_issues": 45,
                     "owner": "lbbrhzn",
                     "repo": "ocpp",
                     "stars": 399,
@@ -2898,8 +2408,8 @@
                     "id": 440147145,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T12:44:07Z",
-                    "open_issues": 326,
+                    "last_commit": "2026-10-03T03:36:44Z",
+                    "open_issues": 327,
                     "owner": "EVerest",
                     "repo": "EVerest",
                     "stars": 270,
@@ -3105,7 +2615,7 @@
                     "id": 1273542083,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-27T20:53:36Z",
+                    "last_commit": "2026-10-03T01:04:53Z",
                     "open_issues": 0,
                     "owner": "EVtivity",
                     "repo": "evtivity-mobile-app",
@@ -3181,8 +2691,8 @@
                     "id": 1318497681,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T12:04:55Z",
-                    "open_issues": 46,
+                    "last_commit": "2026-10-02T20:30:32Z",
+                    "open_issues": 44,
                     "owner": "juherr",
                     "repo": "open-ocpp-tck",
                     "stars": 5,
@@ -3799,7 +3309,7 @@
                         "id": 41747457,
                         "language": "C#",
                         "license": "AGPL-3.0",
-                        "last_commit": "2026-10-02T12:40:14Z",
+                        "last_commit": "2026-10-02T14:27:15Z",
                         "open_issues": 1,
                         "owner": "OpenChargingCloud",
                         "repo": "WWCP_OCPI",
@@ -3898,8 +3408,8 @@
                         "id": 497830391,
                         "language": "Kotlin",
                         "license": "MIT",
-                        "last_commit": "2026-10-01T19:29:17Z",
-                        "open_issues": 19,
+                        "last_commit": "2026-10-02T19:27:40Z",
+                        "open_issues": 25,
                         "owner": "IZIVIA",
                         "repo": "ocpi-toolkit",
                         "stars": 37,
@@ -4380,7 +3890,7 @@
                     "open_issues": 79,
                     "owner": "ecog-io",
                     "repo": "iso15118",
-                    "stars": 246,
+                    "stars": 245,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -4709,8 +4219,8 @@
                 "id": 653332299,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-23T17:26:36Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-02T19:13:44Z",
+                "open_issues": 17,
                 "owner": "leeyuentuen",
                 "repo": "alfen_wallbox",
                 "stars": 104,
@@ -4768,7 +4278,7 @@
                 "open_issues": 0,
                 "owner": "robeertm",
                 "repo": "ev-charge-tracker",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "co2-tracking",
                   "dashboard",
@@ -4987,8 +4497,8 @@
                     "id": 1026503099,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-10-02T00:58:34Z",
-                    "open_issues": 44,
+                    "last_commit": "2026-10-02T14:44:22Z",
+                    "open_issues": 43,
                     "owner": "appspace",
                     "repo": "kwwhat",
                     "stars": 14,
@@ -5014,8 +4524,8 @@
                     "id": 776116413,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-29T10:35:31Z",
-                    "open_issues": 38,
+                    "last_commit": "2026-10-02T16:20:45Z",
+                    "open_issues": 35,
                     "owner": "MTES-MCT",
                     "repo": "qualicharge",
                     "stars": 10,
@@ -5079,11 +4589,11 @@
                     "id": 603860295,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-02T10:14:55Z",
-                    "open_issues": 143,
+                    "last_commit": "2026-10-02T20:25:41Z",
+                    "open_issues": 145,
                     "owner": "dalathegreat",
                     "repo": "Battery-Emulator",
-                    "stars": 2949,
+                    "stars": 2950,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -5165,11 +4675,11 @@
                     "id": 226368338,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T12:17:12Z",
-                    "open_issues": 184,
+                    "last_commit": "2026-10-02T21:53:47Z",
+                    "open_issues": 196,
                     "owner": "evcc-io",
                     "repo": "evcc",
-                    "stars": 7316,
+                    "stars": 7317,
                     "topics": [
                       "battery",
                       "charger",
@@ -5208,8 +4718,8 @@
                     "id": 202533650,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-02T10:12:37Z",
-                    "open_issues": 78,
+                    "last_commit": "2026-10-02T20:02:31Z",
+                    "open_issues": 75,
                     "owner": "OpenEVSE",
                     "repo": "openevse_esp32_firmware",
                     "stars": 273,
@@ -5589,10 +5099,10 @@
                     "language": "Java",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-10-02T12:38:39Z",
-                    "open_issues": 58,
+                    "open_issues": 61,
                     "owner": "OpenEMS",
                     "repo": "openems",
-                    "stars": 1572,
+                    "stars": 1573,
                     "topics": [
                       "climatechange",
                       "electric-vehicle-charging-station",
@@ -5618,7 +5128,7 @@
                     "id": 6083792,
                     "language": "Java",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-10-02T05:04:40Z",
+                    "last_commit": "2026-10-03T03:49:23Z",
                     "open_issues": 0,
                     "owner": "SolarNetwork",
                     "repo": "solarnetwork-central",
@@ -5751,8 +5261,8 @@
                         "id": 1310055779,
                         "language": "Java",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-25T19:34:09Z",
-                        "open_issues": 33,
+                        "last_commit": "2026-10-02T19:34:03Z",
+                        "open_issues": 34,
                         "owner": "juherr",
                         "repo": "datex4j",
                         "stars": 0,
@@ -5793,7 +5303,7 @@
                     "id": 1181844101,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-01T14:29:26Z",
+                    "last_commit": "2026-10-03T00:10:15Z",
                     "open_issues": 1,
                     "owner": "GeiserX",
                     "repo": "Pumperly",
@@ -5902,11 +5412,11 @@
                     "id": 59771425,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T12:56:44Z",
-                    "open_issues": 4055,
+                    "last_commit": "2026-10-03T03:11:34Z",
+                    "open_issues": 4035,
                     "owner": "zephyrproject-rtos",
                     "repo": "zephyr",
-                    "stars": 16671,
+                    "stars": 16676,
                     "topics": [
                       "bluetooth",
                       "bluetooth-le",
@@ -6100,7 +5610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:10:27.346Z",
+    "last_updated": "2026-10-03T04:47:28.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for Electric Vehicles",
