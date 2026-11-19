@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Some of the specifications below are vendored in this repository; the rights holder and licence of each vendored file are recorded in docs/third-party-assets.md.",
+      "description": "Some of the specifications below are vendored in this repository; the rights holder and licence of each vendored file are recorded in docs/third-party-assets.md.\nArchive notice. The specification files in this repository are kept as an archive: several have already disappeared from their publishers' sites (eMI³, NeMo, OIOI), and copies like these were the only ones left. They are stored verbatim, with their original notices, and remain the property of their rights holders; the CC0 licence of this list does not cover them. If you hold rights to one of these files and object to its presence here, please open an issue and it will be removed promptly.",
       "items": [
         {
           "children": [
@@ -440,7 +440,7 @@
                 {
                   "node_type": "item",
                   "title": "steve-community/steve",
-                  "description": "Open-source Java OCPP server implementation for managing electric vehicle charging stations, supporting OCPP 1.2–1.6 with user and RFID management (OCPP 1.2, 1.5, 1.6 · Java · ⭐ 1151).",
+                  "description": "Open-source Java OCPP server implementation for managing electric vehicle charging stations, supporting OCPP 1.2–1.6 with user and RFID management (OCPP 1.2, 1.5, 1.6 · Java · ⭐ 1152).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -489,8 +489,8 @@
                     "id": 336054515,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T15:52:32Z",
-                    "open_issues": 49,
+                    "last_commit": "2026-11-18T17:18:48Z",
+                    "open_issues": 47,
                     "owner": "lbbrhzn",
                     "repo": "ocpp",
                     "stars": 414,
@@ -507,7 +507,7 @@
                 {
                   "node_type": "item",
                   "title": "citrineos/citrineos-core",
-                  "description": "CitrineOS is an open-source modular OCPP 1.6 and 2.0.1 charging station management system with message routing, broker support, and an operator web interface (OCPP 1.6, 2.0.1, 2.1 · TypeScript · ⭐ 309).",
+                  "description": "CitrineOS is an open-source modular OCPP 1.6 and 2.0.1 charging station management system with message routing, broker support, and an operator web interface (OCPP 1.6, 2.0.1, 2.1 · TypeScript · ⭐ 310).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -516,8 +516,8 @@
                     "id": 706394072,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T15:40:39Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-11-18T19:01:59Z",
+                    "open_issues": 18,
                     "owner": "citrineos",
                     "repo": "citrineos-core",
                     "stars": 310,
@@ -573,7 +573,7 @@
                     "language": null,
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-21T20:18:03Z",
-                    "open_issues": 6,
+                    "open_issues": 12,
                     "owner": "citrineos",
                     "repo": "citrineos",
                     "stars": 159,
@@ -601,7 +601,7 @@
                     "open_issues": 0,
                     "owner": "apostoldevel",
                     "repo": "ocpp-cs",
-                    "stars": 80,
+                    "stars": 79,
                     "topics": [
                       "central",
                       "ocpp",
@@ -655,8 +655,8 @@
                     "id": 1210008789,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-18T05:33:51Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-19T15:43:21Z",
+                    "open_issues": 3,
                     "owner": "EVtivity",
                     "repo": "evtivity-csms",
                     "stars": 36,
@@ -714,8 +714,8 @@
                     "id": 1208673229,
                     "language": "Go",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-18T04:57:22Z",
-                    "open_issues": 96,
+                    "last_commit": "2026-11-18T16:12:28Z",
+                    "open_issues": 98,
                     "owner": "srcfl",
                     "repo": "ftw",
                     "stars": 24,
@@ -747,7 +747,7 @@
                     "id": 421759537,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-14T07:45:48Z",
+                    "last_commit": "2026-11-18T18:10:53Z",
                     "open_issues": 2,
                     "owner": "iobroker-community-adapters",
                     "repo": "ioBroker.ocpp",
@@ -893,7 +893,7 @@
                     "id": 6083792,
                     "language": "Java",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-17T22:11:11Z",
+                    "last_commit": "2026-11-19T06:43:57Z",
                     "open_issues": 0,
                     "owner": "SolarNetwork",
                     "repo": "solarnetwork-central",
@@ -1067,7 +1067,7 @@
                     "id": 331888466,
                     "language": "Dockerfile",
                     "license": "MIT",
-                    "last_commit": "2026-11-11T06:21:49Z",
+                    "last_commit": "2026-11-19T10:02:18Z",
                     "open_issues": 2,
                     "owner": "erik73",
                     "repo": "app-steve",
@@ -1095,8 +1095,8 @@
                     "id": 750523399,
                     "language": "C#",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-14T20:08:26Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-11-18T21:56:27Z",
+                    "open_issues": 6,
                     "owner": "eliodecolli",
                     "repo": "Medinilla",
                     "stars": 3,
@@ -1141,7 +1141,7 @@
                 {
                   "node_type": "item",
                   "title": "SukritJaAIproject/bpc-csms-cloud",
-                  "description": "An OCPP 1.6-J charging station management system with real-time charger monitoring, operator console, mobile driver app and payment integration (OCPP 1.6, 2.0.1 · Python · ⭐ 2).",
+                  "description": "An OCPP 1.6-J central system (CSMS) with operator console, customer mobile app, and integrated payment platform for managing EV charging stations (OCPP 1.6, 2.0.1 · Python · ⭐ 2).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1229,7 +1229,7 @@
                     "id": 756278975,
                     "language": "Java",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T21:05:58Z",
+                    "last_commit": "2026-11-18T20:56:58Z",
                     "open_issues": 12,
                     "owner": "LastProject-ESIEE",
                     "repo": "OCPPConfigurationServer",
@@ -1335,6 +1335,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-11-08T13:51:12.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "codetics-software/codetics-ocpp-rust",
+                  "description": "A Rust implementation of OCPP 1.6, 2.0.1, and 2.1 that provides a production Charging Station Management System service and modular protocol libraries with smart charging, reservations, and TLS security support (OCPP 1.6, 2.0.1, 2.1 · Rust · ⭐ 1).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1428185337,
+                    "language": "Rust",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-21T10:23:04Z",
+                    "open_issues": 0,
+                    "owner": "codetics-software",
+                    "repo": "codetics-ocpp-rust",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-19T16:03:27.356Z"
                 }
               ],
               "description": null,
@@ -1355,8 +1376,8 @@
                     "id": 493726338,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T07:15:20Z",
-                    "open_issues": 18,
+                    "last_commit": "2026-11-18T23:07:29Z",
+                    "open_issues": 17,
                     "owner": "SAP",
                     "repo": "e-mobility-charging-stations-simulator",
                     "stars": 231,
@@ -1770,38 +1791,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "SukritJaAIproject/OCPP_CP_DUAL_CSMS",
-                  "description": "An OCPP 1.6J charge point controller that simultaneously connects to two CSMS, routing each charging session exclusively to one owner to prevent duplicate billing (OCPP 1.6 · Python · ⭐ 2).",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "OCPP 1.6J charge point connected to two CSMS at the same time (dual-CSMS router, session ownership, RFID A then B, smart charging)",
-                    "homepage": null,
-                    "id": 1451663948,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-11-18T07:04:19Z",
-                    "open_issues": 0,
-                    "owner": "SukritJaAIproject",
-                    "repo": "OCPP_CP_DUAL_CSMS",
-                    "stars": 2,
-                    "topics": [
-                      "charge-point",
-                      "csms",
-                      "electric-vehicles",
-                      "ev-charging",
-                      "ocpp",
-                      "ocpp16",
-                      "python",
-                      "raspberry-pi",
-                      "smart-charging",
-                      "websocket"
-                    ]
-                  },
-                  "first_seen": "2026-11-15T14:18:05.512Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "hlsxx/ocpp-charge-point-simulator",
                   "description": "Rust CLI tool simulating OCPP 1.6 charge points for testing charging station management backends, with configurable dynamic and idle operational modes (OCPP 1.6, 2.0.1, 2.1 · Rust · ⭐ 2).",
                   "children": [],
@@ -2043,7 +2032,7 @@
                     {
                       "node_type": "item",
                       "title": "aliml92/ocpp",
-                      "description": "Golang package implementing the Open Charge Point Protocol (OCPP) 1.6 and 2.0.1 with support for both charge point client and central system server architectures (OCPP 1.6, 2.0.1 · ⭐ 27).",
+                      "description": "Golang package implementing the Open Charge Point Protocol (OCPP) 1.6 and 2.0.1 with support for both charge point client and central system server architectures (OCPP 1.6, 2.0.1 · ⭐ 28).",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2389,7 +2378,7 @@
                         "id": 852955703,
                         "language": "Kotlin",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-17T14:10:29Z",
+                        "last_commit": "2026-11-19T13:19:01Z",
                         "open_issues": 1,
                         "owner": "monta-app",
                         "repo": "library-ocpp",
@@ -2435,8 +2424,44 @@
                   "children": [
                     {
                       "node_type": "item",
+                      "title": "solutionforest/ocpp-php",
+                      "description": "A PHP library implementing the Open Charge Point Protocol (OCPP) 1.6 and 2.0.1 with modular components for building EV charging stations and central management systems (OCPP 1.6, 2.0, 2.0.1 · ⭐ 6).",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "PHP implementation of the Open Charge Point Protocol (OCPP).",
+                        "homepage": "https://solutionforest.net",
+                        "id": 862698045,
+                        "language": "PHP",
+                        "license": "MIT",
+                        "last_commit": "2026-06-03T09:29:07Z",
+                        "open_issues": 1,
+                        "owner": "solutionforest",
+                        "repo": "ocpp-php",
+                        "stars": 6,
+                        "topics": [
+                          "client",
+                          "electric-vehicles",
+                          "evcharger",
+                          "framework",
+                          "hacktoberfest",
+                          "ocpp",
+                          "server"
+                        ]
+                      },
+                      "first_seen": "2026-11-19T16:03:27.356Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "PHP"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
                       "title": "mobilityhouse/ocpp",
-                      "description": "Python library implementing the Open Charge Point Protocol (OCPP) versions 1.6, 2.0.1, and 2.1 (OCPP 1.6, 2.0.1, 2.1 · ⭐ 1051).",
+                      "description": "Python library implementing the Open Charge Point Protocol (OCPP) versions 1.6, 2.0.1, and 2.1 (OCPP 1.6, 2.0.1, 2.1 · ⭐ 1052).",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2478,7 +2503,7 @@
                         "open_issues": 0,
                         "owner": "nader0913",
                         "repo": "ocpp-rag",
-                        "stars": 51,
+                        "stars": 49,
                         "topics": []
                       },
                       "first_seen": "2026-10-02T13:10:27.346Z"
@@ -2618,7 +2643,7 @@
                         "open_issues": 6,
                         "owner": "voltbras",
                         "repo": "ts-ocpp",
-                        "stars": 48,
+                        "stars": 49,
                         "topics": [
                           "chargepoint",
                           "electric-vehicles",
@@ -2686,7 +2711,7 @@
                     {
                       "node_type": "item",
                       "title": "ocpptools/ocpptools",
-                      "description": "TypeScript monorepo of OCPP 1.6J and 2.0.1 packages for frame parsing, JSON Schema validation, headless charging-station simulation and message construction, with a CLI (OCPP 1.6, 2.0.1 · ⭐ 3).",
+                      "description": "Open-source TypeScript library and CLI packages for validating, simulating, and building OCPP 1.6J and 2.0.1 messages (OCPP 1.6, 2.0.1 · ⭐ 3).",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2803,6 +2828,30 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "open-ocpp-trace/specification",
+                  "description": "A versioned JSON/JSONL format specification for recording OCPP message exchanges with schema validation and conformance suites (JavaScript · ⭐ 4).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": "https://open-ocpp-trace.github.io",
+                    "id": 1302927673,
+                    "language": "JavaScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-07-22T14:40:09Z",
+                    "open_issues": 12,
+                    "owner": "open-ocpp-trace",
+                    "repo": "specification",
+                    "stars": 4,
+                    "topics": [
+                      "ocpp",
+                      "trace"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T19:00:17.060Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "ocpp-debugkit/studio",
                   "description": "A native desktop application for debugging and inspecting OCPP charging sessions with live WebSocket interception, message decoding, trace analysis, and protocol failure detection (OCPP 1.6 · Zig · ⭐ 4).",
                   "children": [],
@@ -2841,27 +2890,45 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "open-ocpp-trace/specification",
-                  "description": "A versioned JSON/JSONL format specification for recording OCPP message exchanges with schema validation and conformance suites (JavaScript · ⭐ 4).",
+                  "title": "open-ocpp-trace/viewer",
+                  "description": "Embeddable viewer library for Open OCPP Trace records with a framework-neutral core, React components, and standalone bundle for inspecting OCPP protocol messages and traces (TypeScript · ⭐ 1).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "description": null,
-                    "homepage": "https://open-ocpp-trace.github.io",
-                    "id": 1302927673,
-                    "language": "JavaScript",
+                    "homepage": null,
+                    "id": 1451283318,
+                    "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-07-22T14:40:09Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-11-10T21:14:44Z",
+                    "open_issues": 9,
                     "owner": "open-ocpp-trace",
-                    "repo": "specification",
-                    "stars": 4,
-                    "topics": [
-                      "ocpp",
-                      "trace"
-                    ]
+                    "repo": "viewer",
+                    "stars": 1,
+                    "topics": []
                   },
-                  "first_seen": "2026-08-28T19:00:17.060Z"
+                  "first_seen": "2026-11-19T16:03:27.356Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "open-ocpp-trace/sdk",
+                  "description": "A codec library for reading, validating and writing Open OCPP Trace records in JSON/JSONL format for recording OCPP message exchanges (TypeScript · ⭐ 1).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1451077051,
+                    "language": "TypeScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-12T12:32:26Z",
+                    "open_issues": 2,
+                    "owner": "open-ocpp-trace",
+                    "repo": "sdk",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-19T16:03:27.356Z"
                 }
               ],
               "description": null,
@@ -3011,7 +3078,7 @@
                 {
                   "node_type": "item",
                   "title": "evcc-io/evcc",
-                  "description": "Open-source EV charging controller and local home energy management system with support for multiple chargers, solar inverters, battery systems, and home automation protocols (Go · ⭐ 7617).",
+                  "description": "Open-source EV charging controller and local home energy management system with support for multiple chargers, solar inverters, battery systems, and home automation protocols (Go · ⭐ 7632).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3020,11 +3087,11 @@
                     "id": 226368338,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T13:51:43Z",
-                    "open_issues": 219,
+                    "last_commit": "2026-11-19T15:56:33Z",
+                    "open_issues": 216,
                     "owner": "evcc-io",
                     "repo": "evcc",
-                    "stars": 7632,
+                    "stars": 7638,
                     "topics": [
                       "battery",
                       "charger",
@@ -3047,7 +3114,7 @@
                 {
                   "node_type": "item",
                   "title": "EVerest/EVerest",
-                  "description": "Modular open-source framework for EV charging infrastructure implementing OCPP 1.6/2.0.1/2.1 and ISO 15118 with hardware drivers and energy management (OCPP 1.6, 2.0.1, 2.1 · C++ · ⭐ 295).",
+                  "description": "Modular open-source framework for EV charging infrastructure implementing OCPP 1.6/2.0.1/2.1 and ISO 15118 with hardware drivers and energy management (OCPP 1.6, 2.0.1, 2.1 · C++ · ⭐ 298).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3056,8 +3123,8 @@
                     "id": 440147145,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T15:17:55Z",
-                    "open_issues": 258,
+                    "last_commit": "2026-11-19T15:31:00Z",
+                    "open_issues": 264,
                     "owner": "EVerest",
                     "repo": "EVerest",
                     "stars": 298,
@@ -3068,7 +3135,7 @@
                 {
                   "node_type": "item",
                   "title": "OpenEVSE/openevse_esp32_firmware",
-                  "description": "ESP32-based WiFi gateway firmware for OpenEVSE chargers with web dashboard, MQTT integration, OCPP 1.6-J support, solar divert, and energy management (OCPP 1.6 · C · ⭐ 283).",
+                  "description": "ESP32-based WiFi gateway firmware for OpenEVSE chargers with web dashboard, MQTT integration, OCPP 1.6-J support, solar divert, and energy management (OCPP 1.6 · C · ⭐ 284).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3078,7 +3145,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-11-18T10:15:36Z",
-                    "open_issues": 72,
+                    "open_issues": 74,
                     "owner": "OpenEVSE",
                     "repo": "openevse_esp32_firmware",
                     "stars": 284,
@@ -3093,7 +3160,7 @@
                 {
                   "node_type": "item",
                   "title": "SmartEVSE/SmartEVSE-3",
-                  "description": "Open-source firmware for Electric Vehicle Supply Equipment implementing OCPP 1.6j protocol with multi-phase charging and smart power management (OCPP 1.6 · C · ⭐ 239).",
+                  "description": "Open-source firmware for Electric Vehicle Supply Equipment implementing OCPP 1.6j protocol with multi-phase charging and smart power management (OCPP 1.6 · C · ⭐ 240).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3135,7 +3202,7 @@
                 {
                   "node_type": "item",
                   "title": "alexeimoisseev/ocpp.md",
-                  "description": "A structured OCPP 2.1, 2.0.1 and 1.6J knowledge base of field-level message schemas, sequence diagrams and smart-charging deep-dives, packaged as a Claude Code plugin and docs directory for AI coding agents (OCPP 1.6, 2.0.1, 2.1 · Python · ⭐ 31).",
+                  "description": "A structured OCPP 2.1, 2.0.1 and 1.6J knowledge base of field-level message schemas, sequence diagrams and smart-charging deep-dives, packaged as a Claude Code plugin and docs directory for AI coding agents (OCPP 1.6, 2.0.1, 2.1 · Python · ⭐ 32).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3190,8 +3257,8 @@
                     "id": 1026503099,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-11-18T15:57:16Z",
-                    "open_issues": 56,
+                    "last_commit": "2026-11-19T15:14:55Z",
+                    "open_issues": 54,
                     "owner": "appspace",
                     "repo": "kwwhat",
                     "stars": 15,
@@ -3217,8 +3284,8 @@
                     "id": 1203663069,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T08:45:54Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-11-19T11:45:00Z",
+                    "open_issues": 2,
                     "owner": "joulo-nl",
                     "repo": "joulo-ocpp-proxy",
                     "stars": 15,
@@ -3271,7 +3338,7 @@
                 {
                   "node_type": "item",
                   "title": "OpenChargingTechnology/Whitepapers",
-                  "description": "Open technical whitepapers on OCPP protocol extensions and EV charging security, authentication, time synchronization, and regulatory compliance (OCPP 1.6, 2.1 · Python · ⭐ 5).",
+                  "description": "A repository of open technical whitepapers on EV charging infrastructure covering cybersecurity, protocol design, cryptographic mechanisms, and regulatory compliance including OCPP and OCPI (OCPP 1.6, 2.1 · Python · ⭐ 5).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3323,8 +3390,40 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "SukritJaAIproject/OCPP_CP_DUAL_CSMS",
+                  "description": "An OCPP 1.6J charge point controller implemented in Python that connects to two CSMS simultaneously while ensuring each charging session belongs to exactly one platform (OCPP 1.6 · Python · ⭐ 2).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "OCPP 1.6J charge point connected to two CSMS at the same time (dual-CSMS router, session ownership, RFID A then B, smart charging)",
+                    "homepage": null,
+                    "id": 1451663948,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-18T07:04:19Z",
+                    "open_issues": 0,
+                    "owner": "SukritJaAIproject",
+                    "repo": "OCPP_CP_DUAL_CSMS",
+                    "stars": 2,
+                    "topics": [
+                      "charge-point",
+                      "csms",
+                      "electric-vehicles",
+                      "ev-charging",
+                      "ocpp",
+                      "ocpp16",
+                      "python",
+                      "raspberry-pi",
+                      "smart-charging",
+                      "websocket"
+                    ]
+                  },
+                  "first_seen": "2026-11-15T14:18:05.512Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "codetics-software/electric-mobility",
-                  "description": "A skill library of OCPP and OCPI implementation guidance, field reference cards, and security frameworks for electric mobility platform development (Python · ⭐ 1).",
+                  "description": "A skill library of OCPP and OCPI implementation guidance, field reference cards, and security frameworks for electric mobility platform development (Python · ⭐ 2).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4292,7 +4391,7 @@
                 {
                   "node_type": "item",
                   "title": "uhi22/pyPLC",
-                  "description": "A Python tool for investigating ISO 15118 / CCS charging protocols through traffic sniffing, EVSE and vehicle simulation, and powerline adaptor firmware patching (Python · ⭐ 240).",
+                  "description": "A Python tool for investigating ISO 15118 / CCS charging protocols through traffic sniffing, EVSE and vehicle simulation, and powerline adaptor firmware patching (Python · ⭐ 241).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4301,11 +4400,11 @@
                     "id": 548296080,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-10T21:37:16Z",
+                    "last_commit": "2026-11-18T22:32:23Z",
                     "open_issues": 8,
                     "owner": "uhi22",
                     "repo": "pyPLC",
-                    "stars": 241,
+                    "stars": 242,
                     "topics": [
                       "ccs",
                       "charging",
@@ -4321,7 +4420,7 @@
                 {
                   "node_type": "item",
                   "title": "dspace-group/dsV2Gshark",
-                  "description": "A Wireshark plugin for decoding and analyzing ISO 15118-2/-20 and DIN 70121 vehicle-to-grid protocol messages between electric vehicles and charging stations (C++ · ⭐ 114).",
+                  "description": "A Wireshark plugin for decoding and analyzing ISO 15118-2/-20 and DIN 70121 vehicle-to-grid protocol messages between electric vehicles and charging stations (C++ · ⭐ 115).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4767,8 +4866,8 @@
                     "id": 866009978,
                     "language": "Rust",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-17T15:02:51Z",
-                    "open_issues": 30,
+                    "last_commit": "2026-11-19T04:44:12Z",
+                    "open_issues": 31,
                     "owner": "OpenLEADR",
                     "repo": "openleadr-rs",
                     "stars": 107,
@@ -4962,7 +5061,7 @@
                     "id": 1201384995,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-18T15:52:17Z",
+                    "last_commit": "2026-11-18T23:33:56Z",
                     "open_issues": 1,
                     "owner": "robeertm",
                     "repo": "ev-charge-tracker",
@@ -5002,7 +5101,7 @@
                     "id": 776116413,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-17T19:49:06Z",
+                    "last_commit": "2026-11-18T19:00:04Z",
                     "open_issues": 37,
                     "owner": "MTES-MCT",
                     "repo": "qualicharge",
@@ -5058,6 +5157,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "JamieTighe/ev-charging-demand-uk",
+                  "description": "Data analytics pipeline comparing UK public EV charging supply against private BEV ownership by local authority, using PostgreSQL, Python, and Tableau dashboards to identify coverage gaps and investment priorities (Jupyter Notebook · ⭐ 2).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Reproducible pipeline comparing UK public EV charging supply (OpenChargeMap) with privately owned BEV demand (DfT VEH9901) at local authority level, delivered via PostgreSQL + Tableau dashboards.",
+                    "homepage": null,
+                    "id": 1139883435,
+                    "language": "Jupyter Notebook",
+                    "license": null,
+                    "last_commit": "2026-01-22T15:58:34Z",
+                    "open_issues": 0,
+                    "owner": "JamieTighe",
+                    "repo": "ev-charging-demand-uk",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-19T16:03:27.356Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "GuillaumeBraillon/EV-Charge-Tracker",
                   "description": "A personal web application for tracking, analyzing and estimating electric vehicle charging costs with realistic pricing based on actual usage data (TypeScript · ⭐ 1).",
                   "children": [],
@@ -5076,33 +5196,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-10-02T13:10:27.346Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "ChargePi/openev-data-mcp",
-                  "description": "An MCP server providing semantic search and resource access to electric vehicle specifications, battery capacity, charging capabilities, and manufacturer data (PLpgSQL · ⭐ 1).",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Let your agents access EV data via an MCP (dataset from Open EV Data)",
-                    "homepage": null,
-                    "id": 1229241967,
-                    "language": "PLpgSQL",
-                    "license": "MIT",
-                    "last_commit": "2026-10-15T20:59:03Z",
-                    "open_issues": 0,
-                    "owner": "ChargePi",
-                    "repo": "openev-data-mcp",
-                    "stars": 1,
-                    "topics": [
-                      "ev",
-                      "ev-charging",
-                      "mcp",
-                      "mcp-server",
-                      "open-ev-data"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:00:17.060Z"
                 }
               ],
               "description": null,
@@ -5114,7 +5207,7 @@
                 {
                   "node_type": "item",
                   "title": "dalathegreat/Battery-Emulator",
-                  "description": "Firmware that enables used EV battery packs to be repurposed as stationary energy storage systems compatible with home solar inverters (C++ · ⭐ 3031).",
+                  "description": "Firmware that enables used EV battery packs to be repurposed as stationary energy storage systems compatible with home solar inverters (C++ · ⭐ 3034).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5124,10 +5217,10 @@
                     "language": "C++",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-18T11:44:59Z",
-                    "open_issues": 176,
+                    "open_issues": 177,
                     "owner": "dalathegreat",
                     "repo": "Battery-Emulator",
-                    "stars": 3034,
+                    "stars": 3035,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -5135,7 +5228,7 @@
                 {
                   "node_type": "item",
                   "title": "mnh-jansson/open-battery-information",
-                  "description": "Arduino firmware and web-based tools for diagnosing battery health, reading battery models and cell voltages, and unlocking BMS fault codes for battery repair (C++ · ⭐ 1834).",
+                  "description": "Arduino firmware and web-based tools for diagnosing battery health, reading battery models and cell voltages, and unlocking BMS fault codes for battery repair (C++ · ⭐ 1835).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5148,7 +5241,7 @@
                     "open_issues": 99,
                     "owner": "mnh-jansson",
                     "repo": "open-battery-information",
-                    "stars": 1835,
+                    "stars": 1837,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
@@ -5305,7 +5398,7 @@
                 {
                   "node_type": "item",
                   "title": "etalab/schema-irve",
-                  "description": "A French government data schema repository defining static location/characteristics, dynamic status/availability, and tariff data structures for EV charging infrastructure (IRVE) published to data.gouv.fr (Elixir · ⭐ 13).",
+                  "description": "A French government data schema repository defining static location/characteristics, dynamic status/availability, and tariff data structures for EV charging infrastructure (IRVE) published to data.gouv.fr (Elixir · ⭐ 14).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5382,11 +5475,11 @@
                     "id": 1270171076,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-18T15:57:13Z",
-                    "open_issues": 36,
+                    "last_commit": "2026-11-19T14:36:17Z",
+                    "open_issues": 35,
                     "owner": "juherr",
                     "repo": "open-idro-directory",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": [
                       "afir",
                       "charging-infrastructure",
@@ -5425,6 +5518,31 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ChargePi/oecs-hub",
+                  "description": "An open, searchable registry platform for EV charger specifications with standardized schema validation, manufacturer submission workflows, and specification comparison tools (JavaScript · ⭐ 1).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Discover and compare chargers that fit your use case seamlessly.  ",
+                    "homepage": "https://oecs-hub.chargepi.cc",
+                    "id": 1323380775,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2026-11-17T22:49:43Z",
+                    "open_issues": 0,
+                    "owner": "ChargePi",
+                    "repo": "oecs-hub",
+                    "stars": 1,
+                    "topics": [
+                      "chargers",
+                      "emobility",
+                      "oecs"
+                    ]
+                  },
+                  "first_seen": "2026-11-19T16:03:27.356Z"
                 },
                 {
                   "node_type": "item",
@@ -5574,7 +5692,7 @@
                 {
                   "node_type": "item",
                   "title": "evicons/evicons",
-                  "description": "Open-source icon library for EV charging and e-mobility, providing SVG icons and React components for charging stations, connectors, power, vehicles, and status indicators (TypeScript · ⭐ 3).",
+                  "description": "Open-source icon library for EV charging applications, distributed as React, Vue, and SVG components and via Iconify (TypeScript · ⭐ 3).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5604,6 +5722,116 @@
                     ]
                   },
                   "first_seen": "2026-11-15T14:18:05.512Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "cyanheads/openchargemap-mcp-server",
+                  "description": "An MCP server providing tools to find and query EV charging stations from the global Open Charge Map registry by location, connector, and network (TypeScript · ⭐ 2).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Find EV charging stations worldwide by location and connector from the global Open Charge Map registry — full station detail, reference-ID resolution, and community reliability check-ins via MCP. STDIO or Streamable HTTP.",
+                    "homepage": "https://www.npmjs.com/package/@cyanheads/openchargemap-mcp-server",
+                    "id": 1268109725,
+                    "language": "TypeScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-19T15:39:19Z",
+                    "open_issues": 2,
+                    "owner": "cyanheads",
+                    "repo": "openchargemap-mcp-server",
+                    "stars": 2,
+                    "topics": [
+                      "ai-agents",
+                      "ai-tools",
+                      "charging-stations",
+                      "cyanheads",
+                      "electric-vehicles",
+                      "ev",
+                      "ev-charging",
+                      "mcp",
+                      "mcp-server",
+                      "model-context-protocol",
+                      "open-charge-map",
+                      "openchargemap",
+                      "typescript"
+                    ]
+                  },
+                  "first_seen": "2026-11-19T16:03:27.356Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ChargePi/openev-data-mcp",
+                  "description": "An MCP server that exposes the Open EV Data dataset to AI assistants, enabling semantic search and resource-based queries of electric vehicle specifications including battery capacity, charging capabilities, and performance metrics (PLpgSQL · ⭐ 1).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Let your agents access EV data via an MCP (dataset from Open EV Data)",
+                    "homepage": null,
+                    "id": 1229241967,
+                    "language": "PLpgSQL",
+                    "license": "MIT",
+                    "last_commit": "2026-10-15T20:59:03Z",
+                    "open_issues": 0,
+                    "owner": "ChargePi",
+                    "repo": "openev-data-mcp",
+                    "stars": 1,
+                    "topics": [
+                      "ev",
+                      "ev-charging",
+                      "mcp",
+                      "mcp-server",
+                      "open-ev-data"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T19:00:17.060Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "stuchapin909/open-charge-finder",
+                  "description": "MCP server that provides AI agents access to 86,000+ US EV charging stations with locations, connector types, availability, and pricing data from the DOE AFDC database (JavaScript · ⭐ 1).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "MCP server giving AI agents access to EV charging station data — locations, availability, connector types, pricing from OpenChargeMap and DOE AFDC",
+                    "homepage": null,
+                    "id": 1198507052,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2026-04-01T16:44:27Z",
+                    "open_issues": 2,
+                    "owner": "stuchapin909",
+                    "repo": "open-charge-finder",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-19T16:03:27.356Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "pipeworx-io/mcp-openchargemap",
+                  "description": "An MCP server library providing tools to discover and query EV charging stations by location from the Open Charge Map database (JavaScript · ⭐ 1).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Open Charge Map MCP — global EV charging station database (openchargemap.io).",
+                    "homepage": null,
+                    "id": 1262332227,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2026-11-09T14:28:13Z",
+                    "open_issues": 0,
+                    "owner": "pipeworx-io",
+                    "repo": "mcp-openchargemap",
+                    "stars": 1,
+                    "topics": [
+                      "mcp",
+                      "mcp-server",
+                      "model-context-protocol",
+                      "openchargemap",
+                      "pipeworx"
+                    ]
+                  },
+                  "first_seen": "2026-11-19T16:03:27.356Z"
                 },
                 {
                   "node_type": "item",
@@ -5699,7 +5927,7 @@
                 {
                   "node_type": "item",
                   "title": "OpenEMS/openems",
-                  "description": "A modular, open-source platform for distributed energy management that monitors, controls, and integrates energy storage, renewable energy sources, EV charging stations, heat pumps, and other complementary devices and services (Java · ⭐ 1625).",
+                  "description": "A modular, open-source platform for distributed energy management that monitors, controls, and integrates energy storage, renewable energy sources, EV charging stations, heat pumps, and other complementary devices and services (Java · ⭐ 1630).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5708,11 +5936,11 @@
                     "id": 71057302,
                     "language": "Java",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-17T16:07:06Z",
-                    "open_issues": 72,
+                    "last_commit": "2026-11-18T16:39:28Z",
+                    "open_issues": 71,
                     "owner": "OpenEMS",
                     "repo": "openems",
-                    "stars": 1631,
+                    "stars": 1632,
                     "topics": [
                       "climatechange",
                       "electric-vehicle-charging-station",
@@ -5785,7 +6013,7 @@
                 {
                   "node_type": "item",
                   "title": "marq24/ha-evcc",
-                  "description": "Home Assistant integration that provides control and state monitoring of evcc solar-optimized electric vehicle charging systems through the evcc API (Python · ⭐ 565).",
+                  "description": "Home Assistant integration that provides control and state monitoring of evcc solar-optimized electric vehicle charging systems through the evcc API (Python · ⭐ 664).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5794,11 +6022,11 @@
                     "id": 800610523,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-17T22:54:43Z",
+                    "last_commit": "2026-11-18T20:19:51Z",
                     "open_issues": 3,
                     "owner": "marq24",
                     "repo": "ha-evcc",
-                    "stars": 665,
+                    "stars": 677,
                     "topics": [
                       "evcc",
                       "hacs",
@@ -5816,7 +6044,7 @@
                 {
                   "node_type": "item",
                   "title": "flobz/psa_car_controller",
-                  "description": "Python tool and Home Assistant addon for remote control and status monitoring of PSA vehicles (Peugeot, Citroen, Opel, Vauxhall, DS) via the official connected_car API, including EV charging management (Python · ⭐ 610).",
+                  "description": "Python tool and Home Assistant addon for remote control and status monitoring of PSA vehicles (Peugeot, Citroen, Opel, Vauxhall, DS) via the official connected_car API, including EV charging management (Python · ⭐ 612).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5829,7 +6057,7 @@
                     "open_issues": 170,
                     "owner": "flobz",
                     "repo": "psa_car_controller",
-                    "stars": 612,
+                    "stars": 613,
                     "topics": [
                       "2008",
                       "208",
@@ -5853,7 +6081,7 @@
                 {
                   "node_type": "item",
                   "title": "andreadegiovine/homeassistant-stellantis-vehicles",
-                  "description": "Home Assistant integration for Stellantis vehicles that provides status monitoring, remote control, and EV charging management (Python · ⭐ 301).",
+                  "description": "A Home Assistant custom integration for monitoring and controlling Stellantis-branded electric vehicles (Peugeot, Citroën, DS, Opel, Vauxhall, Leapmotor) via their cloud APIs (Python · ⭐ 303).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5863,7 +6091,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-17T19:34:06Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "andreadegiovine",
                     "repo": "homeassistant-stellantis-vehicles",
                     "stars": 303,
@@ -5937,7 +6165,7 @@
                 {
                   "node_type": "item",
                   "title": "lachand/EV_charger",
-                  "description": "Home Assistant integration providing local LAN control of Tuya EV chargers over Tuya's proprietary protocol using tinytuya, without cloud dependency (Python · ⭐ 42).",
+                  "description": "Home Assistant integration providing local LAN control of Tuya EV chargers over Tuya's proprietary protocol using tinytuya, without cloud dependency (Python · ⭐ 43).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5946,8 +6174,8 @@
                     "id": 1175338037,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T09:20:14Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-11-18T19:36:49Z",
+                    "open_issues": 5,
                     "owner": "lachand",
                     "repo": "EV_charger",
                     "stars": 43,
@@ -6018,7 +6246,7 @@
                 {
                   "node_type": "item",
                   "title": "openchargemap/ocm-system",
-                  "description": "Open Charge Map is a global crowdsourced registry and interactive map of electric vehicle charging locations with a public API for developers (C# · ⭐ 152).",
+                  "description": "Open Charge Map is a global crowdsourced registry and interactive map of electric vehicle charging locations with a public API for developers (C# · ⭐ 154).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6039,7 +6267,7 @@
                 {
                   "node_type": "item",
                   "title": "GeiserX/Pumperly",
-                  "description": "An open-source route planner combining live fuel prices from 22 countries and EV charging station data with detour-aware corridor filtering (TypeScript · ⭐ 47).",
+                  "description": "An open-source route planner combining live fuel prices from 22 countries and EV charging station data with detour-aware corridor filtering (TypeScript · ⭐ 48).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6052,7 +6280,7 @@
                     "open_issues": 0,
                     "owner": "GeiserX",
                     "repo": "Pumperly",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": [
                       "charging-stations",
                       "docker",
@@ -6077,6 +6305,115 @@
                     ]
                   },
                   "first_seen": "2026-08-28T19:00:17.060Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "dipakjad1993/ChargeTruth-OS",
+                  "description": "Offline-first Progressive Web App for EV drivers that plans charging routes, scores charger reliability, and verifies plug compatibility (JavaScript · ⭐ 2).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "ChargeTruth OS — Charger Reliability + Swap Interop Navigator. Offline-first PWA: will it WORK, will it FIT, real kW or sad kW. 4W plug-in + 2W/3W swap. No Google Maps bill.",
+                    "homepage": "https://dipakjad1993.github.io/ChargeTruth-OS/",
+                    "id": 1413094754,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2026-10-10T11:47:26Z",
+                    "open_issues": 0,
+                    "owner": "dipakjad1993",
+                    "repo": "ChargeTruth-OS",
+                    "stars": 2,
+                    "topics": [
+                      "battery-swap",
+                      "ccs",
+                      "electric-vehicles",
+                      "electromobility",
+                      "ev-charging",
+                      "india",
+                      "nacs",
+                      "offline-first",
+                      "openchargemap",
+                      "openstreetmap",
+                      "pwa",
+                      "reliability",
+                      "sustainability",
+                      "trip-planner",
+                      "valhalla"
+                    ]
+                  },
+                  "first_seen": "2026-11-19T16:03:27.356Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "kamrangul87/autodun-ev-finder",
+                  "description": "Interactive Next.js web application that aggregates UK EV charging station data from OpenChargeMap with real-time map visualization, machine learning-based suitability scoring, and driver feedback analytics (TypeScript · ⭐ 1).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": " Interactive EV charging station finder for UK drivers — live map, real-time data and smart filters",
+                    "homepage": "https://ev.autodun.com",
+                    "id": 1049616133,
+                    "language": "TypeScript",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-11-19T10:35:30Z",
+                    "open_issues": 0,
+                    "owner": "kamrangul87",
+                    "repo": "autodun-ev-finder",
+                    "stars": 1,
+                    "topics": [
+                      "automotive",
+                      "ev-charging",
+                      "maps",
+                      "nextjs",
+                      "openchargemap",
+                      "typescript",
+                      "uk",
+                      "vercel"
+                    ]
+                  },
+                  "first_seen": "2026-11-19T16:03:27.356Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "akshajbhandari28/RouteCharge",
+                  "description": "An EV trip planner that calculates optimal charging stops based on vehicle battery range and recommends local restaurants for each charging point (Python · ⭐ 1).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "⚡ RouteCharge — an EV road-trip planner that calculates optimal charging stops using dashboard range data, projects trip cost (charging + tolls), and curates AI-recommended local restaurants for every charging stop. Built with Streamlit, Folium, OSRM, OpenChargeMap, and Gemini.",
+                    "homepage": null,
+                    "id": 1355093932,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-02T19:12:43Z",
+                    "open_issues": 0,
+                    "owner": "akshajbhandari28",
+                    "repo": "RouteCharge",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-19T16:03:27.356Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "pradhansuman/india-dc-charger-live-monitor",
+                  "description": "A web map of Indian EV charging stations from OpenChargeMap with integrated EV trip planning and charging-stop routing, deployable as a PWA (JavaScript · ⭐ 1).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "India DC Charger Live Monitor — OpenChargeMap-powered dashboard of DC fast charging stations across India",
+                    "homepage": null,
+                    "id": 1332417931,
+                    "language": "JavaScript",
+                    "license": null,
+                    "last_commit": "2026-09-01T10:11:38Z",
+                    "open_issues": 0,
+                    "owner": "pradhansuman",
+                    "repo": "india-dc-charger-live-monitor",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-19T16:03:27.356Z"
                 }
               ],
               "description": null,
@@ -6245,7 +6582,7 @@
                     "id": 743253925,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T12:27:25Z",
+                    "last_commit": "2026-11-19T13:42:09Z",
                     "open_issues": 38,
                     "owner": "enbility",
                     "repo": "ship-go",
@@ -6403,7 +6740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T15:57:55.765Z",
+    "last_updated": "2026-11-19T16:03:27.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of tools for Electric Vehicles",
@@ -6411,11 +6748,11 @@
       "id": 564884602,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-18T15:53:36Z",
-      "open_issues": 8,
+      "last_commit": "2026-11-19T15:05:13Z",
+      "open_issues": 7,
       "owner": "juherr",
       "repo": "awesome-ev-charging",
-      "stars": 184,
+      "stars": 185,
       "topics": [
         "awesome",
         "awesome-list",
@@ -6429,7 +6766,7 @@
         "v2g"
       ]
     },
-    "original_repository_sha": "21c73f820e770c98739f883757300259c4e3e6b3",
+    "original_repository_sha": "a2c56151bb86eaa22087e5e8caaef8f6727443d3",
     "enhanced_repository": "enhansome/enhansome-ev-charging",
     "enhanced_repository_description": null,
     "title": "Awesome EV Charging with stars"
